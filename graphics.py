@@ -252,7 +252,7 @@ def genBuildStats():
 
                 card_avg_count = format(card_avg_count, '.3')
                 deck_percentage = format(deck_percentage, '.3%')
-                payload = (card_name, card_count, card_avg_count, deck_percentage)
+                payload = (card_name, card_count, card_avg_count, deck_percentage, '', '')
                 toWrite.append(payload)
                 
         #print(toWrite)
