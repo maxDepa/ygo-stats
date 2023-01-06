@@ -123,10 +123,10 @@ def getNameDict(data):
             uniqueMain.update({key:getUnique(deck[1])})
 
             extra.update({key:deck[2]})
-            uniqueExtra.update({key: getUnique(deck[1])})
+            uniqueExtra.update({key: getUnique(deck[2])})
 
             side.update({key:deck[3]})
-            uniqueSide.update({key: getUnique(deck[1])})
+            uniqueSide.update({key: getUnique(deck[3])})
 
         elif key in main.keys() and deck[1] != ['unknown']:
             tempArray = main.get(key) + deck[1]
@@ -248,8 +248,6 @@ def genBuildStats():
                 elif part[1] == 'extra':
                     deck_percentage = uniqueExtra[key].count(cID) / float(count)
                 elif part[1] == 'side':
-                    # print(uniqueSide[key])
-                    # print(uniqueSide[key].count(cID))
                     deck_percentage = uniqueSide[key].count(cID) / float(count)
 
                 card_avg_count = format(card_avg_count, '.3')
@@ -257,9 +255,6 @@ def genBuildStats():
                 payload = (card_name, card_count, card_avg_count, deck_percentage,'','')
                 toWrite.append(payload)
                 
-        #print(toWrite)
-        #This is cursed, why does scopes work like this in python, aaaaaaaaaaaaaaaaah
-        #print(pathFile)
         with open(pathFile, 'w', encoding="utf-8") as csvfile:
             filewriter = csv.writer(csvfile, delimiter=',', lineterminator = '\n')
             # Creates header row
