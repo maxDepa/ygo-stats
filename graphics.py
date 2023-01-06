@@ -208,12 +208,7 @@ def genBuildStats():
         for part in [[info[1],'main'],[info[2],'extra'],[info[3],'side']]:
             #don't technically need some of these but it helps me to see it
             decks = part[0]
-
-            #payload = (card_name, card_count, card_avg_count, deck_percentage, '', '')
-            # adds the name of the part of deck in, i.e 'main'
-            toWrite.append([part[1],' ',' ',' ',' ',' ',])
-
-
+            toWrite.append([part[1]])
             cards = []
             reverseCards = {}
             #creates a path and file Name for each individual deck type. EX: spright.csv
@@ -257,7 +252,7 @@ def genBuildStats():
 
                 card_avg_count = format(card_avg_count, '.3')
                 deck_percentage = format(deck_percentage, '.3%')
-                payload = (card_name, card_count, card_avg_count, deck_percentage, '', '')
+                payload = (card_name, card_count, card_avg_count, deck_percentage)
                 toWrite.append(payload)
                 
         #print(toWrite)
@@ -273,8 +268,7 @@ def genBuildStats():
         
 def main():
     genBuildStats()
-    # n2 = getNameDict('decks.csv')
-    # print(n2)
+
 
 if __name__ == "__main__":
     main()
