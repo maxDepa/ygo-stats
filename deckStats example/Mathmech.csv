@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Mathmech,deck count: 4
-main
+main, , , , , 
 Ash Blossom & Joyous Spring,6,1.5,75.000%,,
 Effect Veiler,8,2.0,75.000%,,
 D.D. Crow,5,1.25,50.000%,,
@@ -26,7 +26,7 @@ Droll & Lock Bird,6,1.5,50.000%,,
 Salamangreat Mole,1,0.25,25.000%,,
 Pot of Desires,2,0.5,25.000%,,
 Meowseclick,1,0.25,25.000%,,
-extra
+extra, , , , , 
 Geomathmech Final Sigma,2,0.5,25.000%,,
 Primathmech Alembertian,8,2.0,75.000%,,
 Primathmech Laplacian,6,1.5,75.000%,,
@@ -44,7 +44,7 @@ Link Spider,2,0.5,50.000%,,
 Link Disciple,1,0.25,25.000%,,
 Link Devotee,1,0.25,25.000%,,
 Knightmare Unicorn,1,0.25,25.000%,,
-side
+side, , , , , 
 "Nibiru, the Primal Being",4,1.0,50.000%,,
 Skull Meister,2,0.5,25.000%,,
 PSY-Framegear Gamma,9,2.25,50.000%,,

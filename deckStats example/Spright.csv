@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Spright,deck count: 6
-main
+main, , , , , 
 Spright Blue,18,3.0,100.000%,,
 Spright Jet,18,3.0,100.000%,,
 Spright Red,6,1.0,100.000%,,
@@ -34,7 +34,7 @@ Ipiria,1,0.167,16.667%,,
 D.D. Crow,3,0.5,16.667%,,
 PSY-Framegear Gamma,3,0.5,16.667%,,
 PSY-Frame Driver,1,0.167,16.667%,,
-extra
+extra, , , , , 
 "Wollow, Founder of the Drudge Dragons",1,0.167,0.000%,,
 Number 2: Ninja Shadow Mosquito,1,0.167,0.000%,,
 Onibimaru Soul Sweeper,4,0.667,50.000%,,
@@ -58,7 +58,7 @@ Bujinki Ahashima,1,0.167,16.667%,,
 Salamangreat Almiraj,1,0.167,16.667%,,
 Topologic Zeroboros,1,0.167,16.667%,,
 Cat Shark,1,0.167,16.667%,,
-side
+side, , , , , 
 D.D. Crow,2,0.333,0.000%,,
 "Gadarla, the Mystery Dust Kaiju",2,0.333,0.000%,,
 Lightning Storm,6,1.0,33.333%,,

@@ -211,7 +211,7 @@ def genBuildStats():
 
             #payload = (card_name, card_count, card_avg_count, deck_percentage, '', '')
             # adds the name of the part of deck in, i.e 'main'
-            toWrite.append([part[1],'','','','','',])
+            toWrite.append([part[1],' ',' ',' ',' ',' ',])
 
 
             cards = []

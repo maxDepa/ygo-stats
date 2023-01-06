@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Mystic Mine Ishizu Tearlaments,deck count: 4
-main
+main, , , , , 
 Tearlaments Scheiren,12,3.0,100.000%,,
 Tearlaments Havnis,12,3.0,100.000%,,
 Tearlaments Merrli,12,3.0,100.000%,,
@@ -28,7 +28,7 @@ Gravekeeper's Trap,1,0.25,25.000%,,
 Exchange of the Spirit,1,0.25,25.000%,,
 Demise of the Land,2,0.5,25.000%,,
 Forbidden Droplet,2,0.5,25.000%,,
-extra
+extra, , , , , 
 Predaplant Dragostapelia,4,1.0,75.000%,,
 "Garura, Wings of Resonant Life",4,1.0,75.000%,,
 Tearlaments Kaleido-Heart,4,1.0,75.000%,,
@@ -51,7 +51,7 @@ Knightmare Phoenix,2,0.5,50.000%,,
 Elder Entity N'tss,1,0.25,25.000%,,
 Gigantic Spright,1,0.25,25.000%,,
 Borreload Dragon,1,0.25,25.000%,,
-side
+side, , , , , 
 Ghost Sister & Spooky Dogwood,9,2.25,50.000%,,
 "Nibiru, the Primal Being",3,0.75,0.000%,,
 Necroworld Banshee,1,0.25,0.000%,,

@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Trickstar Runick Spright,deck count: 1
-main
+main, , , , , 
 Trickstar Candina,1,1.0,100.000%,,
 Trickstar Lilybell,1,1.0,100.000%,,
 Spright Jet,2,2.0,100.000%,,
@@ -20,7 +20,7 @@ Runick Fountain,1,1.0,100.000%,,
 Trickstar Light Stage,3,3.0,100.000%,,
 Infinite Impermanence,3,3.0,100.000%,,
 Trickstar Reincarnation,1,1.0,100.000%,,
-extra
+extra, , , , , 
 Geri the Runick Fangs,1,1.0,0.000%,,
 Hugin the Runick Wings,2,2.0,0.000%,,
 Gigantic Spright,2,2.0,0.000%,,
@@ -32,7 +32,7 @@ Knightmare Phoenix,1,1.0,0.000%,,
 "Dharc the Dark Charmer, Gloomy",1,1.0,0.000%,,
 Knightmare Unicorn,1,1.0,0.000%,,
 Unchained Abomination,1,1.0,0.000%,,
-side
+side, , , , , 
 Red Resonator,1,1.0,0.000%,,
 Dinowrestler Pankratops,1,1.0,0.000%,,
 "Nibiru, the Primal Being",3,3.0,0.000%,,

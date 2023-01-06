@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Bystial Dragon Link,deck count: 4
-main
+main, , , , , 
 Rokket Tracer,8,2.0,100.000%,,
 Rokket Recharger,4,1.0,100.000%,,
 Rokket Synchron,3,0.75,75.000%,,
@@ -31,7 +31,7 @@ Red-Eyes Darkness Metal Dragon,1,0.25,25.000%,,
 Silverrokket Dragon,1,0.25,25.000%,,
 Called by the Grave,1,0.25,25.000%,,
 Dark Ruler No More,3,0.75,25.000%,,
-extra
+extra, , , , , 
 Striker Dragon,4,1.0,75.000%,,
 Guardragon Pisty,4,1.0,75.000%,,
 "Dharc the Dark Charmer, Gloomy",4,1.0,75.000%,,
@@ -49,7 +49,7 @@ Scarlight Red Dragon Archfiend,4,1.0,75.000%,,
 Baronne de Fleur,3,0.75,50.000%,,
 I:P Masquerena,3,0.75,75.000%,,
 Hieratic Dragon King of Atum,1,0.25,25.000%,,
-side
+side, , , , , 
 Koa'ki Meiru Drago,2,0.5,25.000%,,
 Grandtusk Dragon,1,0.25,0.000%,,
 Bystial Saronir,1,0.25,25.000%,,

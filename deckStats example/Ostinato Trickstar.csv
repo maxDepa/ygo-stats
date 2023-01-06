@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Ostinato Trickstar,deck count: 1
-main
+main, , , , , 
 Aria the Melodious Diva,1,1.0,100.000%,,
 Elegy the Melodious Diva,1,1.0,100.000%,,
 Barrier Statue of the Heavens,2,2.0,100.000%,,
@@ -19,7 +19,7 @@ Forbidden Chalice,2,2.0,100.000%,,
 Lost Wind,3,3.0,100.000%,,
 Solemn Judgment,3,3.0,100.000%,,
 Solemn Warning,2,2.0,100.000%,,
-extra
+extra, , , , , 
 Schuberta the Melodious Maestra,3,3.0,0.000%,,
 Dark Rebellion Xyz Dragon,1,1.0,0.000%,,
 Drill Driver Vespenato,1,1.0,0.000%,,
@@ -30,7 +30,7 @@ Borreload Dragon,2,2.0,0.000%,,
 Codebreaker Virus Swordsman,1,1.0,0.000%,,
 "Puzzlomino, the Drop-n-Deleter",2,2.0,0.000%,,
 Stardust Dragon,2,2.0,0.000%,,
-side
+side, , , , , 
 Dinowrestler Pankratops,1,1.0,0.000%,,
 "Radian, the Multidimensional Kaiju",2,2.0,0.000%,,
 Ash Blossom & Joyous Spring,2,2.0,0.000%,,

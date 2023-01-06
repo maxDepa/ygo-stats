@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Power Spell Bystial Spright,deck count: 3
-main
+main, , , , , 
 Spright Blue,9,3.0,100.000%,,
 Spright Jet,9,3.0,100.000%,,
 Spright Carrot,3,1.0,100.000%,,
@@ -24,7 +24,7 @@ Infinite Impermanence,3,1.0,33.333%,,
 Spright Pixies,2,0.667,66.667%,,
 Forbidden Droplet,3,1.0,33.333%,,
 Cosmic Cyclone,2,0.667,33.333%,,
-extra
+extra, , , , , 
 Onibimaru Soul Sweeper,3,1.0,66.667%,,
 Number 29: Mannequin Cat,3,1.0,66.667%,,
 Number 65: Djinn Buster,3,1.0,66.667%,,
@@ -40,7 +40,7 @@ Spright Elf,8,2.67,66.667%,,
 Sky Cavalry Centaurea,2,0.667,66.667%,,
 Cat Shark,1,0.333,33.333%,,
 Knightmare Phoenix,2,0.667,66.667%,,
-side
+side, , , , , 
 Red Resonator,3,1.0,66.667%,,
 Testudo erat Numen,2,0.667,33.333%,,
 Spright Smashers,3,1.0,66.667%,,

@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Bystial Spright,deck count: 36
-main
+main, , , , , 
 The End of Anubis,3,0.0833,8.333%,,
 Bystial Magnamhut,105,2.92,100.000%,,
 Bystial Druiswurm,96,2.67,100.000%,,
@@ -44,7 +44,7 @@ Opening of the Spirit Gates,1,0.0278,2.778%,,
 Forbidden Droplet,3,0.0833,2.778%,,
 Mask Change II,6,0.167,5.556%,,
 Cosmic Cyclone,2,0.0556,2.778%,,
-extra
+extra, , , , , 
 "Wollow, Founder of the Drudge Dragons",12,0.333,30.556%,,
 Number 29: Mannequin Cat,15,0.417,38.889%,,
 Divine Arsenal AA-ZEUS - Sky Thunder,36,1.0,97.222%,,
@@ -75,7 +75,7 @@ Masked HERO Dark Law,2,0.0556,5.556%,,
 Accesscode Talker,1,0.0278,2.778%,,
 "Eria the Water Charmer, Gentle",1,0.0278,2.778%,,
 Herald of Pure Light,1,0.0278,2.778%,,
-side
+side, , , , , 
 Droll & Lock Bird,24,0.667,11.111%,,
 Dark Ruler No More,38,1.06,36.111%,,
 Harpie's Feather Duster,21,0.583,52.778%,,

@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Tenyi Swordsoul,deck count: 9
-main
+main, , , , , 
 "Incredible Ecclesia, the Virtuous",26,2.89,100.000%,,
 Swordsoul of Mo Ye,27,3.0,100.000%,,
 Swordsoul Strategist Longyuan,27,3.0,100.000%,,
@@ -34,7 +34,7 @@ Harpie's Feather Duster,1,0.111,11.111%,,
 Dark Ruler No More,5,0.556,22.222%,,
 Tenyi Spirit - Nahata,1,0.111,11.111%,,
 Super Polymerization,3,0.333,11.111%,,
-extra
+extra, , , , , 
 Baronne de Fleur,9,1.0,88.889%,,
 Swordsoul Sinister Sovereign - Qixing Longyuan,9,1.0,88.889%,,
 Swordsoul Supreme Sovereign - Chengying,9,1.0,88.889%,,
@@ -53,7 +53,7 @@ Draco Masters of the Tenyi,1,0.111,11.111%,,
 "Lyna the Light Charmer, Lustrous",1,0.111,11.111%,,
 "Garura, Wings of Resonant Life",1,0.111,11.111%,,
 Predaplant Dragostapelia,1,0.111,11.111%,,
-side
+side, , , , , 
 Harpie's Feather Duster,6,0.667,44.444%,,
 Cosmic Cyclone,15,1.67,55.556%,,
 Forbidden Droplet,3,0.333,0.000%,,

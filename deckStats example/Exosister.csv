@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Exosister,deck count: 7
-main
+main, , , , , 
 Dimension Shifter,21,3.0,100.000%,,
 Exosister Martha,21,3.0,100.000%,,
 Exosister Elis,21,3.0,100.000%,,
@@ -25,7 +25,7 @@ Terraforming,1,0.143,14.286%,,
 Mystic Mine,1,0.143,14.286%,,
 Necrovalley,2,0.286,14.286%,,
 Triple Tactics Talent,3,0.429,14.286%,,
-extra
+extra, , , , , 
 Exosisters Magnifica,14,2.0,85.714%,,
 Exosister Mikailis,20,2.86,85.714%,,
 Exosister Kaspitell,14,2.0,85.714%,,
@@ -51,7 +51,7 @@ Evilswarm Exciton Knight,1,0.143,14.286%,,
 Gigantic Spright,1,0.143,14.286%,,
 Number 39: Utopia,1,0.143,14.286%,,
 Number S39: Utopia the Lightning,1,0.143,14.286%,,
-side
+side, , , , , 
 Ghost Sister & Spooky Dogwood,2,0.286,0.000%,,
 Lightning Storm,3,0.429,0.000%,,
 Dark Ruler No More,3,0.429,42.857%,,

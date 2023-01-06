@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Adventurer Spright,deck count: 4
-main
+main, , , , , 
 Spright Jet,12,3.0,100.000%,,
 Spright Blue,12,3.0,100.000%,,
 Spright Carrot,4,1.0,100.000%,,
@@ -30,7 +30,7 @@ Spright Pixies,2,0.5,50.000%,,
 Spright Gamma Burst,1,0.25,25.000%,,
 Ghost Belle & Haunted Mansion,2,0.5,25.000%,,
 Cosmic Cyclone,1,0.25,25.000%,,
-extra
+extra, , , , , 
 Divine Arsenal AA-ZEUS - Sky Thunder,4,1.0,75.000%,,
 Downerd Magician,4,1.0,75.000%,,
 Toadally Awesome,4,1.0,75.000%,,
@@ -49,7 +49,7 @@ Number 29: Mannequin Cat,2,0.5,50.000%,,
 Knightmare Phoenix,2,0.5,50.000%,,
 Number 65: Djinn Buster,2,0.5,50.000%,,
 Accesscode Talker,1,0.25,25.000%,,
-side
+side, , , , , 
 Red Resonator,4,1.0,75.000%,,
 "Simorgh, Bird of Bringing",1,0.25,0.000%,,
 Spright Smashers,1,0.25,25.000%,,

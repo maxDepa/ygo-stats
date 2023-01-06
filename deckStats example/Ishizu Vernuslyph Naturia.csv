@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Ishizu Vernuslyph Naturia,deck count: 3
-main
+main, , , , , 
 Kashtira Fenrir,6,2.0,66.667%,,
 Naturia Camellia,9,3.0,100.000%,,
 Naturia Mole Cricket,9,3.0,100.000%,,
@@ -25,7 +25,7 @@ Vernusylph of the Flourishing Hills,6,2.0,66.667%,,
 Triple Tactics Talent,2,0.667,33.333%,,
 Vera the Vernusylph Goddess,1,0.333,33.333%,,
 Evenly Matched,3,1.0,33.333%,,
-extra
+extra, , , , , 
 Swordsoul Supreme Sovereign - Chengying,2,0.667,33.333%,,
 Crystron Quariongandrax,2,0.667,33.333%,,
 "Trishula, Dragon of the Ice Barrier",3,1.0,66.667%,,
@@ -52,7 +52,7 @@ Number S39: Utopia Prime,1,0.333,33.333%,,
 Number 39: Utopia,1,0.333,33.333%,,
 Borreload Dragon,1,0.333,33.333%,,
 "Curious, the Lightsworn Dominion",1,0.333,33.333%,,
-side
+side, , , , , 
 Gagaga Cowboy,2,0.667,33.333%,,
 Naturia Bamboo Shoot,2,0.667,33.333%,,
 Fire Cracker,2,0.667,0.000%,,

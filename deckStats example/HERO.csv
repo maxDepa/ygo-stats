@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,HERO,deck count: 2
-main
+main, , , , , 
 Elemental HERO Stratos,5,2.5,100.000%,,
 Vision HERO Faris,5,2.5,100.000%,,
 Vision HERO Increase,4,2.0,100.000%,,
@@ -33,7 +33,7 @@ Reinforcement of the Army,1,0.5,50.000%,,
 Called by the Grave,1,0.5,50.000%,,
 Cosmic Cyclone,2,1.0,50.000%,,
 Forbidden Droplet,2,1.0,50.000%,,
-extra
+extra, , , , , 
 Evil HERO Malicious Bane,1,0.5,0.000%,,
 Destiny HERO - Dystopia,2,1.0,50.000%,,
 Elemental HERO Escuridao,2,1.0,50.000%,,
@@ -51,7 +51,7 @@ Elemental HERO Great Tornado,1,0.5,50.000%,,
 "Garura, Wings of Resonant Life",1,0.5,50.000%,,
 Predaplant Dragostapelia,1,0.5,50.000%,,
 Mudragon of the Swamp,1,0.5,50.000%,,
-side
+side, , , , , 
 Artifact Lancea,5,2.5,50.000%,,
 Cosmic Cyclone,3,1.5,0.000%,,
 Raigeki,3,1.5,0.000%,,

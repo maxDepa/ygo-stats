@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Runick Mystic Mine,deck count: 2
-main
+main, , , , , 
 Amano-Iwato,2,1.0,50.000%,,
 Dimensional Fissure,1,0.5,50.000%,,
 Mystic Mine,6,3.0,100.000%,,
@@ -26,7 +26,7 @@ Pot of Duality,3,1.5,50.000%,,
 Pot of Prosperity,3,1.5,50.000%,,
 Lightning Storm,1,0.5,50.000%,,
 Dark Bribe,3,1.5,50.000%,,
-extra
+extra, , , , , 
 Freki the Runick Fangs,4,2.0,50.000%,,
 Geri the Runick Fangs,5,2.5,50.000%,,
 Munin the Runick Wings,5,2.5,50.000%,,
@@ -41,7 +41,7 @@ Salamangreat Almiraj,1,0.5,50.000%,,
 Secure Gardna,1,0.5,50.000%,,
 "Dharc the Dark Charmer, Gloomy",1,0.5,50.000%,,
 Beat Cop from the Underworld,1,0.5,50.000%,,
-side
+side, , , , , 
 Lava Golem,5,2.5,50.000%,,
 Majesty's Fiend,3,1.5,0.000%,,
 Ghost Sister & Spooky Dogwood,2,1.0,0.000%,,

@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Branded Despia,deck count: 4
-main
+main, , , , , 
 Despian Tragedy,10,2.5,100.000%,,
 Dramaturge of Despia,3,0.75,75.000%,,
 Ad Libitum of Despia,4,1.0,100.000%,,
@@ -34,7 +34,7 @@ Cosmic Cyclone,1,0.25,25.000%,,
 Infinite Impermanence,3,0.75,25.000%,,
 Artifact Scythe,1,0.25,25.000%,,
 Branded Retribution,1,0.25,25.000%,,
-extra
+extra, , , , , 
 Despian Proskenion,2,0.5,25.000%,,
 Despian Quaeritis,4,1.0,75.000%,,
 Alba-Lenatus the Abyss Dragon,2,0.5,25.000%,,
@@ -50,7 +50,7 @@ Predaplant Dragostapelia,4,1.0,75.000%,,
 Mudragon of the Swamp,1,0.25,25.000%,,
 Masked HERO Dark Law,1,0.25,25.000%,,
 Titaniklad the Ash Dragon,1,0.25,25.000%,,
-side
+side, , , , , 
 Dimension Shifter,6,1.5,25.000%,,
 Despian Comedy,1,0.25,0.000%,,
 Droll & Lock Bird,2,0.5,0.000%,,

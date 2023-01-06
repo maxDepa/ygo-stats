@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,D/D/D,deck count: 1
-main
+main, , , , , 
 Ash Blossom & Joyous Spring,3,3.0,100.000%,,
 D/D Ark,1,1.0,100.000%,,
 D/D Cerberus,3,3.0,100.000%,,
@@ -21,7 +21,7 @@ Monster Reborn,1,1.0,100.000%,,
 One for One,1,1.0,100.000%,,
 Pot of Desires,2,2.0,100.000%,,
 Dark Contract with the Witch,1,1.0,100.000%,,
-extra
+extra, , , , , 
 D/D/D Oracle King d'Arc,3,3.0,0.000%,,
 D/D/D Flame High King Genghis,3,3.0,0.000%,,
 D/D/D Super Doom King Purple Armageddon,1,1.0,0.000%,,
@@ -32,7 +32,7 @@ D/D/D Wave King Caesar,2,2.0,0.000%,,
 Evilswarm Nightmare,1,1.0,0.000%,,
 Tornado Dragon,1,1.0,0.000%,,
 Codebreaker Virus Swordsman,1,1.0,0.000%,,
-side
+side, , , , , 
 Artifact Lancea,3,3.0,0.000%,,
 "Radian, the Multidimensional Kaiju",2,2.0,100.000%,,
 Cosmic Cyclone,3,3.0,0.000%,,

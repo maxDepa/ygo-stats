@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Evil Twin Spright,deck count: 2
-main
+main, , , , , 
 PSY-Frame Driver,1,0.5,50.000%,,
 "Nibiru, the Primal Being",3,1.5,50.000%,,
 Ash Blossom & Joyous Spring,3,1.5,50.000%,,
@@ -26,7 +26,7 @@ Cosmic Cyclone,3,1.5,50.000%,,
 Triple Tactics Talent,3,1.5,50.000%,,
 Forbidden Droplet,3,1.5,50.000%,,
 Evenly Matched,3,1.5,50.000%,,
-extra
+extra, , , , , 
 Divine Arsenal AA-ZEUS - Sky Thunder,2,1.0,50.000%,,
 Downerd Magician,2,1.0,50.000%,,
 Toadally Awesome,1,0.5,0.000%,,
@@ -42,7 +42,7 @@ Evil★Twin's Trouble Sunny,1,0.5,50.000%,,
 Tearlaments Kitkallos,1,0.5,50.000%,,
 Sky Cavalry Centaurea,1,0.5,50.000%,,
 Number 65: Djinn Buster,1,0.5,50.000%,,
-side
+side, , , , , 
 Dimension Shifter,3,1.5,0.000%,,
 Artifact Scythe,1,0.5,0.000%,,
 Red Resonator,2,1.0,50.000%,,

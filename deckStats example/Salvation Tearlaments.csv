@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Salvation Tearlaments,deck count: 3
-main
+main, , , , , 
 Albion the Shrouded Dragon,3,1.0,100.000%,,
 Tearlaments Scheiren,9,3.0,100.000%,,
 Tearlaments Reinoheart,9,3.0,100.000%,,
@@ -26,7 +26,7 @@ King of the Swamp,3,1.0,33.333%,,
 Triple Tactics Talent,2,0.667,33.333%,,
 Foolish Burial,1,0.333,33.333%,,
 Polymerization,1,0.333,33.333%,,
-extra
+extra, , , , , 
 Tearlaments Kaleido-Heart,3,1.0,66.667%,,
 Tearlaments Rulkallos,4,1.33,33.333%,,
 Predaplant Dragostapelia,4,1.33,66.667%,,
@@ -44,7 +44,7 @@ Guardian Chimera,1,0.333,33.333%,,
 El Shaddoll Winda,1,0.333,33.333%,,
 D.3.S. Frog,1,0.333,33.333%,,
 Masked HERO Dark Law,1,0.333,33.333%,,
-side
+side, , , , , 
 Ghost Reaper & Winter Cherries,6,2.0,33.333%,,
 Ghost Sister & Spooky Dogwood,6,2.0,33.333%,,
 Red Resonator,2,0.667,33.333%,,

@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Spright Runick,deck count: 7
-main
+main, , , , , 
 Lava Golem,20,2.86,100.000%,,
 Spright Jet,16,2.29,100.000%,,
 Spright Red,7,1.0,100.000%,,
@@ -24,7 +24,7 @@ Forbidden Droplet,2,0.286,14.286%,,
 Infinite Impermanence,12,1.71,57.143%,,
 Evenly Matched,9,1.29,42.857%,,
 Spright Pixies,1,0.143,14.286%,,
-extra
+extra, , , , , 
 Geri the Runick Fangs,7,1.0,85.714%,,
 Hugin the Runick Wings,17,2.43,85.714%,,
 Number 29: Mannequin Cat,3,0.429,28.571%,,
@@ -40,7 +40,7 @@ Knightmare Cerberus,3,0.429,42.857%,,
 Knightmare Phoenix,3,0.429,42.857%,,
 Unchained Abomination,1,0.143,14.286%,,
 Topologic Zeroboros,1,0.143,14.286%,,
-side
+side, , , , , 
 Testudo erat Numen,3,0.429,28.571%,,
 Thunder King Rai-Oh,3,0.429,28.571%,,
 Chaos Hunter,2,0.286,14.286%,,

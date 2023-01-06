@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Tearlaments,deck count: 4
-main
+main, , , , , 
 Albion the Shrouded Dragon,1,0.25,25.000%,,
 Kashtira Fenrir,3,0.75,25.000%,,
 Bystial Druiswurm,3,0.75,75.000%,,
@@ -32,7 +32,7 @@ D.D. Crow,3,0.75,25.000%,,
 Called by the Grave,1,0.25,25.000%,,
 Reinforcement of the Army,1,0.25,25.000%,,
 Paleozoic Dinomischus,3,0.75,25.000%,,
-extra
+extra, , , , , 
 Tearlaments Kaleido-Heart,4,1.0,75.000%,,
 Tearlaments Rulkallos,3,0.75,50.000%,,
 Predaplant Dragostapelia,4,1.0,75.000%,,
@@ -55,7 +55,7 @@ Toadally Awesome,2,0.5,50.000%,,
 Number 41: Bagooska the Terribly Tired Tapir,2,0.5,50.000%,,
 I:P Masquerena,1,0.25,25.000%,,
 Divine Arsenal AA-ZEUS - Sky Thunder,1,0.25,25.000%,,
-side
+side, , , , , 
 The Winged Dragon of Ra - Sphere Mode,3,0.75,0.000%,,
 Dinowrestler Pankratops,2,0.5,25.000%,,
 Ghost Reaper & Winter Cherries,3,0.75,0.000%,,

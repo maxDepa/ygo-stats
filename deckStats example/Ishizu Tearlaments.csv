@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Ishizu Tearlaments,deck count: 30
-main
+main, , , , , 
 Tearlaments Scheiren,90,3.0,100.000%,,
 Tearlaments Havnis,90,3.0,100.000%,,
 Tearlaments Merrli,86,2.87,100.000%,,
@@ -49,7 +49,7 @@ Mystic Mine,4,0.133,6.667%,,
 Kashtira Fenrir,2,0.0667,3.333%,,
 High Rate Draw,1,0.0333,3.333%,,
 Change of Heart,1,0.0333,3.333%,,
-extra
+extra, , , , , 
 Predaplant Dragostapelia,30,1.0,96.667%,,
 "Garura, Wings of Resonant Life",27,0.9,86.667%,,
 Tearlaments Kaleido-Heart,30,1.0,96.667%,,
@@ -84,7 +84,7 @@ Knightmare Phoenix,1,0.0333,3.333%,,
 "Aussa the Earth Charmer, Immovable",2,0.0667,6.667%,,
 Borreload Dragon,3,0.1,6.667%,,
 Naturia Exterio,1,0.0333,3.333%,,
-side
+side, , , , , 
 Volcanic Scattershot,19,0.633,60.000%,,
 Lava Golem,2,0.0667,0.000%,,
 Droll & Lock Bird,6,0.2,3.333%,,

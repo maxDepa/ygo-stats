@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Golden Tearlaments,deck count: 1
-main
+main, , , , , 
 Tearlaments Scheiren,3,3.0,100.000%,,
 Tearlaments Reinoheart,2,2.0,100.000%,,
 Tearlaments Havnis,3,3.0,100.000%,,
@@ -20,7 +20,7 @@ The Golden Swordsoul,1,1.0,100.000%,,
 Albion the Shrouded Dragon,1,1.0,100.000%,,
 Infinite Impermanence,3,3.0,100.000%,,
 Tearlaments Sulliek,1,1.0,100.000%,,
-extra
+extra, , , , , 
 Tearlaments Kaleido-Heart,1,1.0,0.000%,,
 Predaplant Dragostapelia,1,1.0,0.000%,,
 "Garura, Wings of Resonant Life",2,2.0,0.000%,,
@@ -35,7 +35,7 @@ Spright Elf,1,1.0,0.000%,,
 I:P Masquerena,1,1.0,0.000%,,
 Stardust Charge Warrior,1,1.0,0.000%,,
 Baronne de Fleur,1,1.0,0.000%,,
-side
+side, , , , , 
 Droll & Lock Bird,3,3.0,0.000%,,
 Harpie's Feather Duster,1,1.0,0.000%,,
 Dark Ruler No More,3,3.0,0.000%,,

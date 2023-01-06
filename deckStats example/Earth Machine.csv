@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Earth Machine,deck count: 1
-main
+main, , , , , 
 Machina Gearframe,3,3.0,100.000%,,
 Machina Unclaspare,1,1.0,100.000%,,
 Machina Fortress,1,1.0,100.000%,,
@@ -24,7 +24,7 @@ Urgent Schedule,2,2.0,100.000%,,
 Machina Overdrive,1,1.0,100.000%,,
 Skill Drain,2,2.0,100.000%,,
 Infinite Impermanence,3,3.0,100.000%,,
-extra
+extra, , , , , 
 Infinitrack Goliath,3,3.0,0.000%,,
 Double Headed Anger Knuckle,1,1.0,0.000%,,
 Ancient Gear Ballista,1,1.0,0.000%,,
@@ -38,7 +38,7 @@ Infinitrack River Stormer,1,1.0,0.000%,,
 Superdreadnought Rail Cannon Gustav Max,1,1.0,0.000%,,
 Superdreadnought Rail Cannon Juggernaut Liebe,1,1.0,0.000%,,
 Number 81: Superdreadnought Rail Cannon Super Dora,1,1.0,0.000%,,
-side
+side, , , , , 
 "Nibiru, the Primal Being",3,3.0,0.000%,,
 Lightning Storm,3,3.0,0.000%,,
 Harpie's Feather Duster,1,1.0,0.000%,,

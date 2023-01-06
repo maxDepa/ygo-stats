@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Bystial Tearlaments,deck count: 9
-main
+main, , , , , 
 Bystial Magnamhut,27,3.0,100.000%,,
 Bystial Druiswurm,16,1.78,100.000%,,
 Bystial Saronir,13,1.44,77.778%,,
@@ -33,7 +33,7 @@ Droll & Lock Bird,3,0.333,11.111%,,
 Infinite Impermanence,3,0.333,11.111%,,
 High Rate Draw,1,0.111,11.111%,,
 Cyber-Stein,1,0.111,11.111%,,
-extra
+extra, , , , , 
 Predaplant Dragostapelia,9,1.0,88.889%,,
 "Garura, Wings of Resonant Life",9,1.0,88.889%,,
 Tearlaments Kaleido-Heart,9,1.0,88.889%,,
@@ -56,7 +56,7 @@ Number 41: Bagooska the Terribly Tired Tapir,1,0.111,11.111%,,
 Topologic Zeroboros,1,0.111,11.111%,,
 Divine Arsenal AA-ZEUS - Sky Thunder,1,0.111,11.111%,,
 "Wollow, Founder of the Drudge Dragons",1,0.111,11.111%,,
-side
+side, , , , , 
 Kashtira Fenrir,8,0.889,33.333%,,
 Gagaga Cowboy,2,0.222,11.111%,,
 Dinowrestler Pankratops,4,0.444,33.333%,,

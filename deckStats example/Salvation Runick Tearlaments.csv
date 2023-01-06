@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Salvation Runick Tearlaments,deck count: 1
-main
+main, , , , , 
 Tearlaments Scheiren,3,3.0,100.000%,,
 Tearlaments Havnis,3,3.0,100.000%,,
 Tearlaments Merrli,3,3.0,100.000%,,
@@ -19,7 +19,7 @@ Runick Destruction,3,3.0,100.000%,,
 Runick Dispelling,1,1.0,100.000%,,
 Super Polymerization,3,3.0,100.000%,,
 Rainbow Bridge of Salvation,1,1.0,100.000%,,
-extra
+extra, , , , , 
 Tearlaments Kaleido-Heart,1,1.0,0.000%,,
 Tearlaments Kitkallos,1,1.0,0.000%,,
 Predaplant Dragostapelia,1,1.0,0.000%,,
@@ -34,7 +34,7 @@ Abyss Dweller,1,1.0,0.000%,,
 Time Thief Redoer,1,1.0,0.000%,,
 Geri the Runick Fangs,1,1.0,0.000%,,
 Hugin the Runick Wings,2,2.0,0.000%,,
-side
+side, , , , , 
 Lava Golem,3,3.0,0.000%,,
 "Nibiru, the Primal Being",3,3.0,0.000%,,
 Dinowrestler Pankratops,1,1.0,0.000%,,

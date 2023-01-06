@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Therion Tearlaments,deck count: 1
-main
+main, , , , , 
 Tearlaments Scheiren,3,3.0,100.000%,,
 Tearlaments Havnis,3,3.0,100.000%,,
 Tearlaments Merrli,3,3.0,100.000%,,
@@ -21,7 +21,7 @@ Forbidden Droplet,3,3.0,100.000%,,
 Infinite Impermanence,3,3.0,100.000%,,
 Tearlaments Sulliek,1,1.0,100.000%,,
 Eradicator Epidemic Virus,1,1.0,100.000%,,
-extra
+extra, , , , , 
 Tearlaments Kaleido-Heart,1,1.0,0.000%,,
 Tearlaments Kitkallos,1,1.0,0.000%,,
 Predaplant Dragostapelia,1,1.0,0.000%,,
@@ -37,7 +37,7 @@ Knightmare Unicorn,1,1.0,0.000%,,
 Knightmare Gryphon,1,1.0,0.000%,,
 Topologic Zeroboros,1,1.0,0.000%,,
 "Apollousa, Bow of the Goddess",1,1.0,0.000%,,
-side
+side, , , , , 
 Ghost Reaper & Winter Cherries,3,3.0,0.000%,,
 "Nibiru, the Primal Being",3,3.0,0.000%,,
 Chaos Hunter,3,3.0,0.000%,,

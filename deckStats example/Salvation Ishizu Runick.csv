@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Salvation Ishizu Runick,deck count: 2
-main
+main, , , , , 
 Diviner of the Herald,6,3.0,100.000%,,
 Keldo the Sacred Protector,4,2.0,100.000%,,
 Kelbek the Ancient Vanguard,5,2.5,100.000%,,
@@ -24,7 +24,7 @@ Terraforming,2,1.0,100.000%,,
 Metaverse,2,1.0,100.000%,,
 Rainbow Bridge of Salvation,2,1.0,100.000%,,
 Agido the Ancient Sentinel,2,1.0,50.000%,,
-extra
+extra, , , , , 
 Freki the Runick Fangs,2,1.0,50.000%,,
 Hugin the Runick Wings,6,3.0,50.000%,,
 Geri the Runick Fangs,4,2.0,50.000%,,
@@ -38,7 +38,7 @@ Stardust Charge Warrior,2,1.0,50.000%,,
 Swordsoul Supreme Sovereign - Chengying,2,1.0,50.000%,,
 Baronne de Fleur,2,1.0,50.000%,,
 Cupid Pitch,1,0.5,50.000%,,
-side
+side, , , , , 
 Lava Golem,4,2.0,50.000%,,
 Ghost Sister & Spooky Dogwood,2,1.0,0.000%,,
 Zombie World,1,0.5,0.000%,,

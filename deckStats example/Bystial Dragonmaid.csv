@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Bystial Dragonmaid,deck count: 1
-main
+main, , , , , 
 Chamber Dragonmaid,3,3.0,100.000%,,
 Parlor Dragonmaid,3,3.0,100.000%,,
 The Bystial Lubellion,3,3.0,100.000%,,
@@ -20,7 +20,7 @@ Branded Regained,1,1.0,100.000%,,
 Branded Beast,1,1.0,100.000%,,
 Dragonmaid Tidying,3,3.0,100.000%,,
 Infinite Impermanence,3,3.0,100.000%,,
-extra
+extra, , , , , 
 House Dragonmaid,1,1.0,0.000%,,
 Dragonmaid Sheou,1,1.0,0.000%,,
 Starving Venom Fusion Dragon,1,1.0,0.000%,,
@@ -36,7 +36,7 @@ Striker Dragon,1,1.0,0.000%,,
 Knightmare Unicorn,1,1.0,0.000%,,
 Underworld Goddess of the Closed World,1,1.0,0.000%,,
 Accesscode Talker,1,1.0,0.000%,,
-side
+side, , , , , 
 Chaos Daedalus,3,3.0,0.000%,,
 Droll & Lock Bird,3,3.0,0.000%,,
 Artifact Scythe,1,1.0,0.000%,,

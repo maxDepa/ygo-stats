@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Bystial Branded Tearlaments,deck count: 1
-main
+main, , , , , 
 Ad Libitum of Despia,1,1.0,100.000%,,
 Aluber the Jester of Despia,2,2.0,100.000%,,
 Despian Tragedy,1,1.0,100.000%,,
@@ -29,7 +29,7 @@ Branded Regained,1,1.0,100.000%,,
 Branded Banishment,1,1.0,100.000%,,
 Branded Beast,1,1.0,100.000%,,
 Branded Retribution,1,1.0,100.000%,,
-extra
+extra, , , , , 
 Guardian Chimera,1,1.0,0.000%,,
 Tearlaments Kaleido-Heart,1,1.0,0.000%,,
 Tearlaments Kitkallos,1,1.0,0.000%,,
@@ -42,7 +42,7 @@ Mirrorjade the Iceblade Dragon,1,1.0,0.000%,,
 Lubellion the Searing Dragon,2,2.0,0.000%,,
 Albion the Branded Dragon,2,2.0,0.000%,,
 "Dharc the Dark Charmer, Gloomy",1,1.0,0.000%,,
-side
+side, , , , , 
 The Winged Dragon of Ra - Sphere Mode,3,3.0,0.000%,,
 Lava Golem,3,3.0,0.000%,,
 Kashtira Fenrir,3,3.0,0.000%,,

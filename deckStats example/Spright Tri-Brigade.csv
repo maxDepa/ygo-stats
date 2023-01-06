@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Spright Tri-Brigade,deck count: 3
-main
+main, , , , , 
 Tri-Brigade Fraktall,9,3.0,100.000%,,
 Tri-Brigade Kerass,6,2.0,100.000%,,
 Tri-Brigade Kitt,9,3.0,100.000%,,
@@ -32,7 +32,7 @@ Ghost Belle & Haunted Mansion,1,0.333,33.333%,,
 Skull Meister,1,0.333,33.333%,,
 Ghost Ogre & Snow Rabbit,1,0.333,33.333%,,
 Emergency Teleport,2,0.667,33.333%,,
-extra
+extra, , , , , 
 Tri-Brigade Shuraig the Ominous Omen,6,2.0,66.667%,,
 Scareclaw Light-Heart,1,0.333,0.000%,,
 Accesscode Talker,3,1.0,66.667%,,
@@ -51,7 +51,7 @@ I:P Masquerena,2,0.667,66.667%,,
 Knightmare Phoenix,1,0.333,33.333%,,
 Salamangreat Almiraj,1,0.333,33.333%,,
 Herald of the Arc Light,1,0.333,33.333%,,
-side
+side, , , , , 
 Red Resonator,2,0.667,33.333%,,
 Bystial Druiswurm,1,0.333,33.333%,,
 Bystial Saronir,1,0.333,0.000%,,

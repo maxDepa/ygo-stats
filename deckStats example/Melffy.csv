@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Melffy,deck count: 1
-main
+main, , , , , 
 Ash Blossom & Joyous Spring,3,3.0,100.000%,,
 "Kalantosa, Mystical Beast of the Forest",3,3.0,100.000%,,
 Melffy Pony,1,1.0,100.000%,,
@@ -19,7 +19,7 @@ Compulsory Evacuation Device,2,2.0,100.000%,,
 Heavy Storm Duster,2,2.0,100.000%,,
 Paleozoic Dinomischus,2,2.0,100.000%,,
 Torrential Tribute,3,3.0,100.000%,,
-extra
+extra, , , , , 
 Merry Melffys,2,2.0,0.000%,,
 Joyous Melffys,3,3.0,0.000%,,
 Number 29: Mannequin Cat,1,1.0,0.000%,,
@@ -32,7 +32,7 @@ Codebreaker Virus Swordsman,1,1.0,0.000%,,
 Fire Fighting Daruma Doll,1,1.0,0.000%,,
 Tri-Brigade Rugal the Silver Sheller,1,1.0,0.000%,,
 "Ra'ten, the Heavenly General",1,1.0,0.000%,,
-side
+side, , , , , 
 Spright Pixies,3,3.0,0.000%,,
 Dinowrestler Pankratops,1,1.0,0.000%,,
 Twin Twisters,2,2.0,0.000%,,

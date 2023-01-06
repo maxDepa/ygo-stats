@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Myutant,deck count: 1
-main
+main, , , , , 
 PSY-Frame Driver,1,1.0,100.000%,,
 Myutant Arsenal,1,1.0,100.000%,,
 Myutant Mist,1,1.0,100.000%,,
@@ -18,7 +18,7 @@ Emergency Teleport,3,3.0,100.000%,,
 Myutant Expansion,3,3.0,100.000%,,
 Infinite Impermanence,3,3.0,100.000%,,
 Myutant Cry,3,3.0,100.000%,,
-extra
+extra, , , , , 
 Myutant Ultimus,2,2.0,0.000%,,
 Myutant Synthesis,3,3.0,0.000%,,
 PSY-Framelord Omega,1,1.0,0.000%,,
@@ -31,7 +31,7 @@ Knightmare Phoenix,1,1.0,0.000%,,
 PSY-Framelord Lambda,1,1.0,0.000%,,
 Knightmare Cerberus,1,1.0,0.000%,,
 I:P Masquerena,1,1.0,0.000%,,
-side
+side, , , , , 
 Ghost Sister & Spooky Dogwood,3,3.0,0.000%,,
 Change of Heart,1,1.0,0.000%,,
 Lightning Storm,3,3.0,0.000%,,

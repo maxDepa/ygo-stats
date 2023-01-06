@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Salvation Ishizu Tearlaments,deck count: 3
-main
+main, , , , , 
 Crystal Beast Emerald Tortoise,3,1.0,100.000%,,
 Tearlaments Scheiren,9,3.0,100.000%,,
 Tearlaments Havnis,9,3.0,100.000%,,
@@ -26,7 +26,7 @@ Bystial Magnamhut,3,1.0,33.333%,,
 Mystic Mine,2,0.667,66.667%,,
 Cosmic Cyclone,1,0.333,33.333%,,
 Forbidden Droplet,3,1.0,33.333%,,
-extra
+extra, , , , , 
 Predaplant Dragostapelia,3,1.0,66.667%,,
 "Garura, Wings of Resonant Life",3,1.0,66.667%,,
 Mudragon of the Swamp,2,0.667,33.333%,,
@@ -48,7 +48,7 @@ Mekk-Knight Crusadia Avramax,1,0.333,33.333%,,
 Elder Entity N'tss,1,0.333,33.333%,,
 Evilswarm Exciton Knight,1,0.333,33.333%,,
 Knightmare Unicorn,1,0.333,33.333%,,
-side
+side, , , , , 
 Volcanic Scattershot,3,1.0,66.667%,,
 Lightning Storm,1,0.333,0.000%,,
 Harpie's Feather Duster,1,0.333,0.000%,,

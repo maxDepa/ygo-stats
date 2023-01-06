@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Crystal Beast,deck count: 2
-main
+main, , , , , 
 Crystal Beast Rainbow Dragon,6,3.0,100.000%,,
 Crystal Beast Sapphire Pegasus,6,3.0,100.000%,,
 Crystal Beast Cobalt Eagle,1,0.5,50.000%,,
@@ -24,7 +24,7 @@ Ash Blossom & Joyous Spring,3,1.5,50.000%,,
 Mystic Mine,1,0.5,50.000%,,
 Triple Tactics Talent,2,1.0,50.000%,,
 Infinite Impermanence,3,1.5,50.000%,,
-extra
+extra, , , , , 
 "Garura, Wings of Resonant Life",2,1.0,50.000%,,
 Mudragon of the Swamp,1,0.5,0.000%,,
 Divine Arsenal AA-ZEUS - Sky Thunder,2,1.0,50.000%,,
@@ -43,7 +43,7 @@ Underworld Goddess of the Closed World,1,0.5,0.000%,,
 Accesscode Talker,1,0.5,50.000%,,
 Knightmare Cerberus,1,0.5,50.000%,,
 I:P Masquerena,1,0.5,50.000%,,
-side
+side, , , , , 
 Ash Blossom & Joyous Spring,3,1.5,0.000%,,
 Zombie World,1,0.5,0.000%,,
 Super Polymerization,6,3.0,50.000%,,

@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Sunavalon Rikka,deck count: 1
-main
+main, , , , , 
 Sunseed Genius Loci,2,2.0,100.000%,,
 Sunseed Twin,1,1.0,100.000%,,
 Snowdrop the Rikka Fairy,1,1.0,100.000%,,
@@ -20,7 +20,7 @@ One for One,1,1.0,100.000%,,
 Unexpected Dai,3,3.0,100.000%,,
 Infinite Impermanence,3,3.0,100.000%,,
 Rikka Sheet,1,1.0,100.000%,,
-extra
+extra, , , , , 
 PSY-Framelord Omega,1,1.0,0.000%,,
 "Alsei, the Sylvan High Protector",1,1.0,0.000%,,
 "Sacred Tree Beast, Hyperyton",1,1.0,0.000%,,
@@ -32,7 +32,7 @@ Aromaseraphy Jasmine,1,1.0,0.000%,,
 Sunvine Healer,2,2.0,0.000%,,
 Sunavalon Dryas,3,3.0,0.000%,,
 Sunavalon Melias,1,1.0,0.000%,,
-side
+side, , , , , 
 D.D. Crow,3,3.0,0.000%,,
 Harpie's Feather Duster,1,1.0,0.000%,,
 Cosmic Cyclone,2,2.0,0.000%,,

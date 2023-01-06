@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Bystial Ishizu Tearlaments,deck count: 90
-main
+main, , , , , 
 Tearlaments Scheiren,270,3.0,100.000%,,
 Tearlaments Havnis,270,3.0,100.000%,,
 Tearlaments Merrli,267,2.97,100.000%,,
@@ -38,7 +38,7 @@ Tearlaments Metanoise,2,0.0222,2.222%,,
 "Nibiru, the Primal Being",3,0.0333,1.111%,,
 Mask Change II,2,0.0222,1.111%,,
 High Rate Draw,1,0.0111,1.111%,,
-extra
+extra, , , , , 
 Predaplant Dragostapelia,87,0.967,95.556%,,
 "Garura, Wings of Resonant Life",88,0.978,96.667%,,
 Mudragon of the Swamp,89,0.989,97.778%,,
@@ -71,7 +71,7 @@ El Shaddoll Construct,1,0.0111,1.111%,,
 Masked HERO Dark Law,1,0.0111,1.111%,,
 Gigantic Spright,1,0.0111,1.111%,,
 Downerd Magician,1,0.0111,1.111%,,
-side
+side, , , , , 
 PSY-Framegear Gamma,81,0.9,28.889%,,
 PSY-Frame Driver,27,0.3,28.889%,,
 Bystial Magnamhut,3,0.0333,3.333%,,

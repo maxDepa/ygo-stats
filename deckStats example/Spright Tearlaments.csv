@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Spright Tearlaments,deck count: 3
-main
+main, , , , , 
 Tearlaments Scheiren,9,3.0,100.000%,,
 Tearlaments Reinoheart,7,2.33,100.000%,,
 Tearlaments Havnis,9,3.0,100.000%,,
@@ -32,7 +32,7 @@ Branded in High Spirits,3,1.0,33.333%,,
 Forbidden Droplet,3,1.0,33.333%,,
 Infinite Impermanence,3,1.0,33.333%,,
 Paleozoic Dinomischus,2,0.667,33.333%,,
-extra
+extra, , , , , 
 Tearlaments Kaleido-Heart,3,1.0,66.667%,,
 Predaplant Dragostapelia,3,1.0,66.667%,,
 "Garura, Wings of Resonant Life",3,1.0,66.667%,,
@@ -51,7 +51,7 @@ D.3.S. Frog,1,0.333,33.333%,,
 Abyss Dweller,1,0.333,33.333%,,
 "Curious, the Lightsworn Dominion",1,0.333,33.333%,,
 Topologic Zeroboros,1,0.333,33.333%,,
-side
+side, , , , , 
 Red Resonator,3,1.0,66.667%,,
 Bystial Magnamhut,6,2.0,33.333%,,
 Bystial Druiswurm,5,1.67,33.333%,,

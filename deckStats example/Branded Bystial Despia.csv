@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Branded Bystial Despia,deck count: 1
-main
+main, , , , , 
 The Bystial Lubellion,3,3.0,100.000%,,
 Bystial Magnamhut,3,3.0,100.000%,,
 Bystial Saronir,2,2.0,100.000%,,
@@ -21,7 +21,7 @@ Triple Tactics Talent,2,2.0,100.000%,,
 Branded Regained,1,1.0,100.000%,,
 Branded Beast,1,1.0,100.000%,,
 Branded Banishment,1,1.0,100.000%,,
-extra
+extra, , , , , 
 Despian Quaeritis,1,1.0,0.000%,,
 Masquerade the Blazing Dragon,1,1.0,0.000%,,
 Alba-Lenatus the Abyss Dragon,1,1.0,0.000%,,
@@ -34,7 +34,7 @@ Predaplant Dragostapelia,1,1.0,0.000%,,
 Mudragon of the Swamp,1,1.0,0.000%,,
 "Dharc the Dark Charmer, Gloomy",1,1.0,0.000%,,
 "Wollow, Founder of the Drudge Dragons",1,1.0,0.000%,,
-side
+side, , , , , 
 Kashtira Fenrir,3,3.0,0.000%,,
 Forbidden Droplet,3,3.0,0.000%,,
 Lightning Storm,3,3.0,0.000%,,

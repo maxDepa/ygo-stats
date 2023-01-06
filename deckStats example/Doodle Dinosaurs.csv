@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Doodle Dinosaurs,deck count: 1
-main
+main, , , , , 
 Ultimate Conductor Tyranno,2,2.0,100.000%,,
 "True King Lithosagym, the Disaster",1,1.0,100.000%,,
 "Dogoran, the Mad Flame Kaiju",1,1.0,100.000%,,
@@ -28,7 +28,7 @@ Harpie's Feather Duster,1,1.0,100.000%,,
 Pot of Prosperity,2,2.0,100.000%,,
 Called by the Grave,1,1.0,100.000%,,
 Doodlebook - Uh uh uh!,1,1.0,100.000%,,
-extra
+extra, , , , , 
 Borreload Savage Dragon,1,1.0,0.000%,,
 Naturia Beast,1,1.0,0.000%,,
 Evolzar Laggia,1,1.0,0.000%,,
@@ -44,7 +44,7 @@ Secure Gardna,1,1.0,0.000%,,
 I:P Masquerena,1,1.0,0.000%,,
 Linkuriboh,1,1.0,0.000%,,
 "Apollousa, Bow of the Goddess",1,1.0,0.000%,,
-side
+side, , , , , 
 "Nibiru, the Primal Being",2,2.0,0.000%,,
 Ghost Sister & Spooky Dogwood,3,3.0,0.000%,,
 Droll & Lock Bird,2,2.0,0.000%,,

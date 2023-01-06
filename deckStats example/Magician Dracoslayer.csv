@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Magician Dracoslayer,deck count: 4
-main
+main, , , , , 
 Kashtira Fenrir,5,1.25,50.000%,,
 "Nibiru, the Primal Being",1,0.25,25.000%,,
 Dimension Shifter,3,0.75,25.000%,,
@@ -32,7 +32,7 @@ Archfiend Eccentrick,1,0.25,25.000%,,
 Amorphage Sloth,1,0.25,25.000%,,
 Artifact Scythe,1,0.25,25.000%,,
 Pot of Desires,2,0.5,25.000%,,
-extra
+extra, , , , , 
 "Dinoster Power, the Mighty Dracoslayer",4,1.0,75.000%,,
 "Ignister Prominence, the Blasting Dracoslayer",7,1.75,75.000%,,
 Number 38: Hope Harbinger Dragon Titanic Galaxy,3,0.75,50.000%,,
@@ -57,7 +57,7 @@ Elder Entity N'tss,1,0.25,25.000%,,
 Scarlight Red Dragon Archfiend,1,0.25,25.000%,,
 Borreload Savage Dragon,1,0.25,25.000%,,
 Artifact Dagda,1,0.25,25.000%,,
-side
+side, , , , , 
 Scarlight Red Dragon Archfiend,3,0.75,50.000%,,
 The Winged Dragon of Ra - Sphere Mode,6,1.5,25.000%,,
 Lightning Storm,6,1.5,25.000%,,

@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Branded Eldlich,deck count: 1
-main
+main, , , , , 
 Eldlich the Golden Lord,2,2.0,100.000%,,
 Necroworld Banshee,1,1.0,100.000%,,
 Aluber the Jester of Despia,3,3.0,100.000%,,
@@ -17,7 +17,7 @@ Summon Limit,3,3.0,100.000%,,
 There Can Be Only One,3,3.0,100.000%,,
 Skill Drain,3,3.0,100.000%,,
 Huaquero of the Golden Land,2,2.0,100.000%,,
-extra
+extra, , , , , 
 Mirrorjade the Iceblade Dragon,2,2.0,0.000%,,
 Lubellion the Searing Dragon,1,1.0,0.000%,,
 Predaplant Dragostapelia,1,1.0,0.000%,,
@@ -31,7 +31,7 @@ Accesscode Talker,1,1.0,0.000%,,
 "Lyna the Light Charmer, Lustrous",1,1.0,0.000%,,
 "Dharc the Dark Charmer, Gloomy",1,1.0,0.000%,,
 Link Spider,1,1.0,0.000%,,
-side
+side, , , , , 
 Lava Golem,3,3.0,0.000%,,
 Dimension Shifter,3,3.0,0.000%,,
 Evenly Matched,3,3.0,0.000%,,

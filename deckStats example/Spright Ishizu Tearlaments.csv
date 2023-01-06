@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Spright Ishizu Tearlaments,deck count: 5
-main
+main, , , , , 
 Tearlaments Reinoheart,7,1.4,100.000%,,
 Tearlaments Scheiren,15,3.0,100.000%,,
 Tearlaments Havnis,15,3.0,100.000%,,
@@ -31,7 +31,7 @@ Diviner of the Herald,1,0.2,20.000%,,
 Chaos Hunter,1,0.2,20.000%,,
 Mystic Mine,2,0.4,20.000%,,
 Foolish Burial,2,0.4,40.000%,,
-extra
+extra, , , , , 
 Predaplant Dragostapelia,5,1.0,80.000%,,
 "Garura, Wings of Resonant Life",5,1.0,80.000%,,
 Mudragon of the Swamp,5,1.0,80.000%,,
@@ -50,7 +50,7 @@ Mekk-Knight Crusadia Avramax,2,0.4,20.000%,,
 Underworld Goddess of the Closed World,2,0.4,40.000%,,
 Elder Entity N'tss,1,0.2,20.000%,,
 Number 29: Mannequin Cat,1,0.2,20.000%,,
-side
+side, , , , , 
 PSY-Framegear Gamma,6,1.2,20.000%,,
 PSY-Frame Driver,2,0.4,20.000%,,
 Necroworld Banshee,2,0.4,0.000%,,

@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Kashtira Mekk-Knight,deck count: 1
-main
+main, , , , , 
 Mekk-Knight Purple Nightfall,3,3.0,100.000%,,
 Mekk-Knight Blue Sky,3,3.0,100.000%,,
 "Girsu, the Orcust Mekk-Knight",3,3.0,100.000%,,
@@ -19,7 +19,7 @@ World Legacy Succession,1,1.0,100.000%,,
 Cosmic Cyclone,2,2.0,100.000%,,
 World Legacy's Secret,3,3.0,100.000%,,
 Evenly Matched,3,3.0,100.000%,,
-extra
+extra, , , , , 
 Salamangreat Almiraj,1,1.0,0.000%,,
 "Dharc the Dark Charmer, Gloomy",1,1.0,0.000%,,
 Lib the World Key Blademaster,2,2.0,0.000%,,
@@ -33,7 +33,7 @@ Mekk-Knight Crusadia Avramax,1,1.0,0.000%,,
 Kashtira Shangri-Ira,1,1.0,0.000%,,
 Divine Arsenal AA-ZEUS - Sky Thunder,1,1.0,0.000%,,
 Mecha Phantom Beast Dracossack,1,1.0,0.000%,,
-side
+side, , , , , 
 Knightmare Corruptor Iblee,3,3.0,0.000%,,
 Ghost Sister & Spooky Dogwood,3,3.0,0.000%,,
 Dimension Shifter,3,3.0,0.000%,,

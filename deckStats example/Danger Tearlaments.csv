@@ -1,5 +1,5 @@
 Card Name,count,Avg count in decks,In percentage of decks,Danger Tearlaments,deck count: 3
-main
+main, , , , , 
 Danger! Bigfoot!,3,1.0,100.000%,,
 Danger! Nessie!,9,3.0,100.000%,,
 Tearlaments Scheiren,9,3.0,100.000%,,
@@ -36,7 +36,7 @@ Blackwing - Steam the Cloak,1,0.333,33.333%,,
 Pot of Desires,2,0.667,33.333%,,
 Reinforcement of the Army,1,0.333,33.333%,,
 Branded in High Spirits,3,1.0,33.333%,,
-extra
+extra, , , , , 
 Tearlaments Kaleido-Heart,3,1.0,66.667%,,
 Tearlaments Rulkallos,1,0.333,0.000%,,
 Predaplant Dragostapelia,3,1.0,66.667%,,
@@ -58,7 +58,7 @@ I:P Masquerena,2,0.667,66.667%,,
 Topologic Zeroboros,2,0.667,66.667%,,
 Knightmare Gryphon,1,0.333,33.333%,,
 D.3.S. Frog,1,0.333,33.333%,,
-side
+side, , , , , 
 The Winged Dragon of Ra - Sphere Mode,2,0.667,0.000%,,
 Skull-Mark Ladybug,2,0.667,33.333%,,
 Mystic Mine,3,1.0,0.000%,,
