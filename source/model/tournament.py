@@ -40,20 +40,21 @@ class Tournament:
 
 class Scraper:
     def getDecksFromLatestTournaments():
-        tournamentArray = Scraper.getTournamentLinks()
+        tournamentLinks = Scraper.getTournamentLinks()
         
         decks = []
         for x in range(0, constant.numberOfTournamentsToScrape):
-            tLinks = tournamentArray[x]
-            bArray = Tournament.getDecks(tLinks)
-            decksArray = bArray[0]
-            noDeckList = bArray[1]
+            tournamentLink = tournamentLinks[x]
+            deckLinks = Tournament.getDecks(tournamentLink)
+            
+            validDecks = deckLinks[0]
+            invalidDecks = deckLinks[1]
 
-            for deckLink in decksArray:
+            for deckLink in validDecks:
                 info = Deck.getDeckInfo(deckLink)
                 decks.append(info)
                 
-            for name in noDeckList:
+            for name in invalidDecks:
                 decks.append([name, 'unknown', 'unknown', 'unknown'])
         return decks
     

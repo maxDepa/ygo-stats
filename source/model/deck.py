@@ -22,16 +22,16 @@ class Parser:
     
     #Card Ids
     def getAllCards(soup):
-        return Parser.getCardIdsFromLinks(Parser.getAllCardsLinks(soup));
+        return Parser.getCardIdsFromLinks(Parser.getAllCardsLinks(soup))
 
     def getMainDeckCards(soup):
-        return Parser.getCardIdsFromLinks(Parser.getMainDeckCardLinks(soup));
+        return Parser.getCardIdsFromLinks(Parser.getMainDeckCardLinks(soup))
 
     def getExtraDeckCards(soup):
-        return Parser.getCardIdsFromLinks(Parser.getExtraDeckCardLinks(soup));
+        return Parser.getCardIdsFromLinks(Parser.getExtraDeckCardLinks(soup))
 
     def getSideDeckCards(soup):
-        return Parser.getCardIdsFromLinks(Parser.getSideDeckCardLinks(soup));
+        return Parser.getCardIdsFromLinks(Parser.getSideDeckCardLinks(soup))
     
     def getCardIdsFromLinks(cards):
         deck = []
