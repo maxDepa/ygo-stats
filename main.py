@@ -1,9 +1,8 @@
-from dataGen import *
-from graphics import *
+from source.businessLogic.dataGen import *
+from source.view.graphics import *
 
 def main():
-    numberOfTournaments = 5
-    genData(numberOfTournaments)
+    genData()
     genBuildStats()
 
 if __name__ == "__main__":

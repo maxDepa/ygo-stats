@@ -1,20 +1,17 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
-from bs4 import BeautifulSoup
 
+import source.common.constant as constant
 from source.integration.www import WebDriver
 from source.integration.www import Page;
 
 class Tournament:
-    #def __init__(self, url):
-    #    self.soup = Page.GetSoupFromUrl(url)
-    
-    def getDecks(tournament_url):
+    def getDecks(url):
         links = []
         noDeckList = []
 
-        soup = Page.GetSoupFromUrl(tournament_url)
+        soup = Page.GetSoupFromUrl(url)
 
         #data = soup.findAll('div', {'id': 'tournament_table'})
         decks = soup.findAll('a', {'role': 'row'})
@@ -22,7 +19,7 @@ class Tournament:
 
         for element in decks:
             try:
-                links.append('https://ygoprodeck.com' + element['href'])
+                links.append(constant.baseUrl + element['href'])
                 count += 1
             except:
                 print('failed to find decklist (This is normal)')
@@ -40,29 +37,26 @@ class Tournament:
         print('deck count: ' + str(count))
         return [links, noDeckList]
 
-class Parser:
-    url = 'https://ygoprodeck.com/tournaments/'
-    
+class Scraper:
     def getTournamentLinks():
         driver = WebDriver.Create()
-        driver.get(Parser.url)
+        driver.get(constant.tournamentsUrl)
 
         #waits for table to be finished
         element = WebDriverWait(driver, 100).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "even"))
             )
         
-        hrefs = Parser.getTournaments(driver.page_source)
+        hrefs = Scraper.filterTournamentsLinks(driver.page_source)
         driver.close()
         return hrefs
 
-    def getTournaments(source):
+    def filterTournamentsLinks(source):
         soup = Page.GetSoupFromContent(source)
         td = soup.findAll('a', {'target': "_blank"})
         hrefs = []
         for element in td:
             link = element['href']
-            #filter tournament links
-            if '/tournament/' in link:
-                hrefs.append('https://ygoprodeck.com' + link)
+            if constant.tournamentsSubUrl in link:
+                hrefs.append(constant.baseUrl + link)
         return hrefs

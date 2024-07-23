@@ -1,9 +1,6 @@
 from source.integration.www import Page
 
 class Deck:
-    #def __init__(self, url):
-    #    self.soup = Page.GetSoupFromUrl(url)
-    
     def getDeckInfo(url):
         soup = Page.GetSoupFromUrl(url)
         
