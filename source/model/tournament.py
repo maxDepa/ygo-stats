@@ -23,7 +23,7 @@ class Tournament:
                 links.append(constant.baseUrl + element['href'])
                 count += 1
             except:
-                print('failed to find decklist (This is normal)')
+                #print('failed to find decklist (This is normal)')
                 try:
                     #sp = BeautifulSoup(element, 'html.parser')
                     rows = element.findAll('span', {'class':'as-tablecell','role': 'gridcell'})
@@ -35,7 +35,7 @@ class Tournament:
                         noDeckList.append(transName)
                 except:
                     print('something went wrong')
-        print('deck count: ' + str(count))
+        print(url + ' deck count: ' + str(count))
         return [links, noDeckList]
 
 class Scraper:

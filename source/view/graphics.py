@@ -92,6 +92,8 @@ def generateBuildStats():
             
             if decks[key] != ['']:
                 for cardID in cardList:
+                    if cardID.isdigit() == False:
+                        continue
                     card_int = int(cardID)
                     name = cardNames.get(card_int)
                     cards.append(name)
