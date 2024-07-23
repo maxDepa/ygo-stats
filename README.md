@@ -1,7 +1,8 @@
 # In this fork
 My name is Massimo and I'm a Game Developer from Italy.
-I forked this repo in order to fix a problem that I found using the software.
+I forked this repo in order to fix a problem that I found using the software (based on old urls).
 Also, I took this opportunity to learn Python better, therefore I'm refactoring almost all the code to better match my liking and programming preferences.
+23/07/2024
 
 # ygo-stats
 
