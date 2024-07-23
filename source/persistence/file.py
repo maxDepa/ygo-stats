@@ -1,5 +1,5 @@
 import csv
-import requests
+from source.model.card import Card
 
 class FileWriter:        
     def WriteDecksCsv(decks):
@@ -13,7 +13,7 @@ class FileWriter:
                     filewriter.writerow([deck[0],deck[1], deck[2], deck[3]])
                     
 class FileReader:
-    def readData(data):
+    def readCsv(data):
         # data in the form of csv name as a str
         csvLines = []
         with open(data, mode='r',encoding="utf-8") as file:
@@ -95,7 +95,7 @@ class FileReader:
         for list in combined:
             unique.append(list[0])
 
-        return [FileReader.getCardsInfo(unique), main, extra, side, uniqueMain, uniqueExtra, uniqueSide]
+        return [Card.getCardsInfo(unique), main, extra, side, uniqueMain, uniqueExtra, uniqueSide]
     
     def occurances(arrayData):
         #array of each element, unique entries
@@ -117,31 +117,4 @@ class FileReader:
             combined.append(combo)
         return combined
     
-    def getCardsInfo(cardArray):
-        #card array is an array, filled with unique card ID's.
-        #api endpoint: https://db.ygoprodeck.com/api/v7/cardinfo.php
-        ID = ''
 
-        for cardID in cardArray:
-            # '%2C' is a URL encoded comma. This is needed to do multiple ID's in one request.
-            ID = ID + cardID + '%2C'
-
-        data = requests.get("https://db.ygoprodeck.com/api/v7/cardinfo.php?id="+ ID)
-        if (data.status_code != 200):
-            print('ERROR: request status code not 200', data.status_code)
-
-        info = data.json()['data']
-        #creates a dictionary that takes an id for input and translates it into a name.
-        cardNames = {}
-        for card in info:
-            #creates an array with all the cardID's for the specific card.
-            cardIDs = []
-            for image in card['card_images']:
-                cardIDs.append(image['id'])
-            for cardID in cardIDs:
-                cardNames.update({cardID:card['name']})
-
-        return cardNames
-        # IMPORTANT: The api combines the return for the same card in the case of erratas. FOr example, the bagooska errata
-        # is combined into one return, and seemingly the only way to get all the ID's is to look at the ID's for the image
-        # return.

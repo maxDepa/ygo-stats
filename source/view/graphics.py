@@ -12,7 +12,7 @@ def bar(data):
     fig, ax = plt.subplots(figsize=(16, 9))
 
     # data in the form of csv name as a str
-    parsed = FileReader.readData(data)
+    parsed = FileReader.readCsv(data)
     occ = uniqueDecks(parsed)
     unique = occ[0]
     count = occ[1]
@@ -50,8 +50,8 @@ def uniqueDecks(arrayData):
 
     return [names,count]
 
-def genBuildStats():
-    parsed = FileReader.readData('decks.csv')
+def generateBuildStats():
+    parsed = FileReader.readCsv('decks.csv')
     info = FileReader.getNameDict('decks.csv', parsed)
     uniqueMain = info[4]
     uniqueExtra = info[5]
@@ -126,7 +126,7 @@ def genBuildStats():
             filewriter.writerows(toWrite)
        
 def main():
-    genBuildStats()
+    generateBuildStats()
 
 if __name__ == "__main__":
     main()

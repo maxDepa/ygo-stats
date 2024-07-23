@@ -59,7 +59,10 @@ class Parser:
         return Parser.getDeckSection(soup, 'extra_deck').find_all('a', {'class': 'ygodeckcard'})
 
     def getSideDeckCardLinks(soup):
-        return Parser.getDeckSection(soup, 'side_deck').find_all('a', {'class': 'ygodeckcard'})
+        sideDeck = Parser.getDeckSection(soup, 'side_deck')
+        if sideDeck == None:
+            return []
+        return sideDeck.find_all('a', {'class': 'ygodeckcard'})
     
     def getDeckSection(soup, section) :
         return soup.find('div', {'class': 'deck-output', 'id' : section})
