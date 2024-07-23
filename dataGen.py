@@ -1,22 +1,24 @@
-import scrape as sc
-import dynamic as dy
 import csv
+
+from tournament import Parser as tournamentParser
+from tournament import Tournament
+from deck import Parser as deckParser
+from deck import Deck
 
 def genData(tournaments):
     #tournaments is the number of tournaments to use, sorted by date.(i.e sorted by recency)
     #max 50.
-
-    #gets tournament links, as array
-    tournamentArray = dy.getTournamentLinks()
+    tournamentArray = tournamentParser.getTournamentLinks()
+    
     decks = []
     for x in range(0, tournaments):
         tLinks = tournamentArray[x]
-        bArray = sc.getDecksFromT(tLinks)
+        bArray = Tournament.getDecks(tLinks)
         decksArray = bArray[0]
         noDeckList = bArray[1]
 
         for deckLink in decksArray:
-            info = sc.getDeckInfo(deckLink)
+            info = Deck.getDeckInfo(deckLink)
             decks.append(info)
             
         for name in noDeckList:

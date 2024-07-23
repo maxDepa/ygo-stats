@@ -2,8 +2,8 @@ from dataGen import *
 from graphics import *
 
 def main():
-    genData(50)
-    #34 for current format as of 1/1/2023
+    numberOfTournaments = 5
+    genData(numberOfTournaments)
     genBuildStats()
 
 if __name__ == "__main__":
