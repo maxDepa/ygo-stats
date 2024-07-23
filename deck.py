@@ -1,4 +1,4 @@
-from www import Page
+from source.integration.www import Page
 
 class Deck:
     #def __init__(self, url):

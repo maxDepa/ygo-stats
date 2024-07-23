@@ -3,8 +3,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from bs4 import BeautifulSoup
 
-from www import WebDriver
-from www import Page;
+from source.integration.www import WebDriver
+from source.integration.www import Page;
 
 class Tournament:
     #def __init__(self, url):
