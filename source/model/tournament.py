@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
+from source.model.deck import Deck
 import source.common.constant as constant
 from source.integration.www import WebDriver
 from source.integration.www import Page;
@@ -38,6 +39,25 @@ class Tournament:
         return [links, noDeckList]
 
 class Scraper:
+    def getDecksFromLatestTournaments():
+        tournamentArray = Scraper.getTournamentLinks()
+        
+        decks = []
+        for x in range(0, constant.numberOfTournamentsToScrape):
+            tLinks = tournamentArray[x]
+            bArray = Tournament.getDecks(tLinks)
+            decksArray = bArray[0]
+            noDeckList = bArray[1]
+
+            for deckLink in decksArray:
+                info = Deck.getDeckInfo(deckLink)
+                decks.append(info)
+                
+            for name in noDeckList:
+                decks.append([name, 'unknown', 'unknown', 'unknown'])
+        return decks
+    
+    
     def getTournamentLinks():
         driver = WebDriver.Create()
         driver.get(constant.tournamentsUrl)

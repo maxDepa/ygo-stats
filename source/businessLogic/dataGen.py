@@ -6,23 +6,7 @@ from source.model.deck import Deck
 import source.common.constant as constant
 
 def genData():
-    #tournaments is the number of tournaments to use, sorted by date.(i.e sorted by recency)
-    #max 50.
-    tournamentArray = Scraper.getTournamentLinks()
-    
-    decks = []
-    for x in range(0, constant.numberOfTournamentsToScrape):
-        tLinks = tournamentArray[x]
-        bArray = Tournament.getDecks(tLinks)
-        decksArray = bArray[0]
-        noDeckList = bArray[1]
-
-        for deckLink in decksArray:
-            info = Deck.getDeckInfo(deckLink)
-            decks.append(info)
-            
-        for name in noDeckList:
-            decks.append([name, 'unknown', 'unknown', 'unknown'])
+    decks = Scraper.getDecksFromLatestTournaments()
 
     with open('decks.csv', 'w',encoding="utf-8") as csvfile:
         filewriter = csv.writer(csvfile, delimiter=',', lineterminator = '\n')
