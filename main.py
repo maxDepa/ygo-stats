@@ -1,9 +1,9 @@
 from source.businessLogic.dataGenerator import *
-from source.view.graphics import *
+from source.businessLogic.statsGenerator import *
 
 def main():
     generateDecksData()
-    generateBuildStats()
+    generateArchetypeStats()
 
 if __name__ == "__main__":
     main()

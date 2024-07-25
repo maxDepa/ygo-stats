@@ -1,58 +1,14 @@
 import numpy as np
-import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
 import csv
 import os
-
 from source.persistence.file import FileReader
+import source.common.constant as constant
 
-
-def bar(data):
-    fig, ax = plt.subplots(figsize=(16, 9))
-
-    # data in the form of csv name as a str
-    parsed = FileReader.readCsv(data)
-    occ = uniqueDecks(parsed)
-    unique = occ[0]
-    count = occ[1]
-
-    ax.set_title("Tear Format breakdown")
-    ax.yaxis.set_tick_params(pad=10)
-    ax.xaxis.set_tick_params(pad=5)
-    for i in ax.patches:
-        plt.text(i.get_width() + 0.2, i.get_y() + 0.5,
-                 str(round((i.get_width()), 2)),
-                 fontsize=10, fontweight='bold',
-                 color='grey')
-    ax.barh(unique,count)
-    plt.show()
-
-def uniqueDecks(arrayData):
-    #assumes read Data from function
-    names = []
-    for lines in arrayData:
-        names.append(lines[0])
-
-    occ = FileReader.occurances(names)
-
-    dtype = [('name', 'U40'), ('count', int)]
-    s = np.array(occ, dtype=dtype)
-    sorted = np.sort(s, order=['count', 'name'])
-
-    names = []
-    count = []
-
-    for element in sorted:
-        names.append(element[0])
-        count.append(element[1])
-
-
-    return [names,count]
-
-def generateBuildStats():
-    parsed = FileReader.readCsv('decks.csv')
-    info = FileReader.getNameDict('decks.csv', parsed)
+def generateArchetypeStats():
+    print('Generating archetype files from tournament decks...')
+    parsed = FileReader.readCsv(constant.decksFile)
+    info = FileReader.getNameDict(constant.decksFile, parsed)
     uniqueMain = info[4]
     uniqueExtra = info[5]
     uniqueSide = info[6]
@@ -126,9 +82,53 @@ def generateBuildStats():
             filewriter.writerow(['Card Name', 'count','Avg count in decks', 'In percentage of decks',
                                  key, 'deck count: ' + str(count)])
             filewriter.writerows(toWrite)
+    print('... finished')
+
+
+def bar(data):
+    fig, ax = plt.subplots(figsize=(16, 9))
+
+    # data in the form of csv name as a str
+    parsed = FileReader.readCsv(data)
+    occ = uniqueDecks(parsed)
+    unique = occ[0]
+    count = occ[1]
+
+    ax.set_title("Tear Format breakdown")
+    ax.yaxis.set_tick_params(pad=10)
+    ax.xaxis.set_tick_params(pad=5)
+    for i in ax.patches:
+        plt.text(i.get_width() + 0.2, i.get_y() + 0.5,
+                 str(round((i.get_width()), 2)),
+                 fontsize=10, fontweight='bold',
+                 color='grey')
+    ax.barh(unique,count)
+    plt.show()
+
+def uniqueDecks(arrayData):
+    #assumes read Data from function
+    names = []
+    for lines in arrayData:
+        names.append(lines[0])
+
+    occ = FileReader.occurances(names)
+
+    dtype = [('name', 'U40'), ('count', int)]
+    s = np.array(occ, dtype=dtype)
+    sorted = np.sort(s, order=['count', 'name'])
+
+    names = []
+    count = []
+
+    for element in sorted:
+        names.append(element[0])
+        count.append(element[1])
+
+
+    return [names,count]
        
 def main():
-    generateBuildStats()
+    generateArchetypeStats()
 
 if __name__ == "__main__":
     main()

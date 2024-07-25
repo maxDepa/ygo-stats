@@ -1,8 +1,9 @@
 import csv
 from source.model.card import Card
 
-class FileWriter:        
+class FileWriter:
     def WriteDecksCsv(decks):
+        print('Start writing decks.csv...')
         with open('decks.csv', 'w',encoding="utf-8") as csvfile:
             filewriter = csv.writer(csvfile, delimiter=',', lineterminator = '\n')
             #Creates header row
@@ -11,6 +12,7 @@ class FileWriter:
                 if deck[0] != [] and deck[1] != []:
                     #print(deck)
                     filewriter.writerow([deck[0],deck[1], deck[2], deck[3]])
+        print('... finished!')
                     
 class FileReader:
     def readCsv(data):

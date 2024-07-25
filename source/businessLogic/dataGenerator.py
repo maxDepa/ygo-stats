@@ -26,5 +26,5 @@ def generateDecksFromTournaments(tournamentLinks):
             decks.append([name, 'unknown', 'unknown', 'unknown'])
     return decks
 
-# if __name__ == "__main__":
-#     generateDecksData(2)
+if __name__ == "__main__":
+    generateDecksData()

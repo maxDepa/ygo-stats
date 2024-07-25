@@ -9,6 +9,7 @@ from source.integration.www import Page;
 
 class TournamentsPage:
     def getTournamentLinks():
+        print('Trying to get ' + str(constant.numberOfTournamentsToScrape) + ' tournaments link...')
         driver = WebDriver.Create()
         driver.get(constant.tournamentsUrl)
 
@@ -17,9 +18,10 @@ class TournamentsPage:
                 EC.presence_of_element_located((By.CLASS_NAME, "even"))
             )
         
-        hrefs = TournamentsPage.scrapeLinksFromSource(driver.page_source)
+        links = TournamentsPage.scrapeLinksFromSource(driver.page_source)
         driver.close()
-        return hrefs
+        print("... finished! \nNumber of tournaments: " + str(len(links)) + '/' + str(constant.numberOfTournamentsToScrape))
+        return links
 
     def scrapeLinksFromSource(source):
         links = TournamentsPage.findElementsWithBlankTarget(source)
@@ -39,6 +41,7 @@ class TournamentsPage:
 
 class TournamentPage:
     def getDecks(url):
+        print('Getting decks from tournament: ' + url)
         decksWithLink = []
         decksWithNoLink = []
 
@@ -65,11 +68,12 @@ class TournamentPage:
                         decksWithNoLink.append(transName)
                 except:
                     print('something went wrong')
-        print(url + ' deck count: ' + str(count))
+        #print(url + ' deck count: ' + str(count))
         return [decksWithLink, decksWithNoLink]
 
 class DeckPage:
     def getDeckInfo(url):
+        print('Getting deck info from ' + url)
         soup = Page.GetSoupFromUrl(url)
         
         name = DeckPage.getName(soup)
