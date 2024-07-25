@@ -1,4 +1,4 @@
-from source.businessLogic.dataGen import *
+from source.businessLogic.dataGenerator import *
 from source.view.graphics import *
 
 def main():
