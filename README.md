@@ -1,8 +1,12 @@
 # In this fork
 My name is Massimo and I'm a Game Developer from Italy.
-I forked this repo in order to fix a problem that I found using the software (based on old urls).
+I forked this repo in order to fix some problems that I found using the software.
 Also, I took this opportunity to learn Python better, therefore I'm refactoring almost all the code to better match my liking and programming preferences.
-23/07/2024
+
+Problems fixed:
+
+- Corrected old URLs
+- Handled the case where a decklists doesn't have a Side Deck.
 
 # ygo-stats
 
