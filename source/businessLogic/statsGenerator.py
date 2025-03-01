@@ -76,6 +76,10 @@ def generateArchetypeStats():
                 payload = (card_name, card_count, card_avg_count, deck_percentage,'','')
                 toWrite.append(payload)
                 
+        directory = os.path.dirname(pathFile)
+        if not os.path.exists(directory):
+            os.makedirs(directory) 
+
         with open(pathFile, 'w', encoding="utf-8") as csvfile:
             filewriter = csv.writer(csvfile, delimiter=',', lineterminator = '\n')
             # Creates header row
