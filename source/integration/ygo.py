@@ -40,6 +40,9 @@ class TournamentsPage:
         return links
 
 class TournamentPage:
+    def IsTCG(url):
+        return True
+    
     def getDecks(url):
         print('Getting decks from tournament: ' + url)
         decksWithLink = []

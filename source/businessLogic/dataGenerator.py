@@ -13,6 +13,10 @@ def generateDecksFromTournaments(tournamentLinks):
     decks = []
     for x in range(0, constant.numberOfTournamentsToScrape):
         tournamentLink = tournamentLinks[x]
+        
+        if(TournamentPage.IsTCG(tournamentLink) == False):
+            continue
+
         deckLinks = TournamentPage.getDecks(tournamentLink)
         
         validDecks = deckLinks[0]
